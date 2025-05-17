@@ -1,0 +1,9 @@
+pandas
+notebook
+ipywidgets
+implicit
+scikit-learn
+matplotlib
+seaborn
+scipy
+gensim
